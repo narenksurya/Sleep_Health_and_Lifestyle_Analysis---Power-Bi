@@ -86,5 +86,3 @@ The dashboard highlights multiple perspectives:
 5. View the **Gamma presentation** for a structured walkthrough of findings.
 
 ---
-
-Would you like me to also draft a **short “Presentation” section** in the README that links or describes your Gamma presentation (e.g., “See the Gamma deck for a slide-based summary”)? That way, visitors know there’s both a dashboard and a presentation available.
